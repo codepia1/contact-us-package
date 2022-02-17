@@ -8,6 +8,14 @@
             "Codepia\\Contact\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Codepia\\Contact\\ContactServiceProvider"
+            ]
+           
+        }
+    },
     "authors": [
         {
             "name": "tekle yitayew",
