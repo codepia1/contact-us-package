@@ -1,0 +1,19 @@
+{
+    "name": "codepia/contact",
+    "description": "this will send email to admin and save contact message to database",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Codepia\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tekle yitayew",
+            "email": "tekleyitayew12@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
